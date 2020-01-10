@@ -19,7 +19,7 @@ title: IBM Cloud Paks Playbook
 logo_tag: IBM Cloud Pak
 
 # NOTE: make sure there’s no trailing slash on your repo URL
-github_repo:  https://github.com/ibm-cloud-architecture/cloudpak8s
+github_repo:  https://github.com/ibm-cloud-architecture/ocp311cloudpak8s
 github_branch: gh-pages
 
 email: gangchen@us.ibm.com
@@ -28,10 +28,10 @@ description: > # this means to ignore newlines until "baseurl:"
   implementing, and analyzing the data collected through Bluemix’s various
   analytics tools.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://cloudpak8s.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ocp311.cloudpak8s.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 github:
-  url: "https://cloudpak8s.io"
+  url: "https://ocp311.cloudpak8s.io"
 
 # Content settings
 collections:
