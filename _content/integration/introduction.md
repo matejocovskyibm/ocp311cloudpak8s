@@ -13,6 +13,8 @@ The **IBM Cloud Pak for Integration** is the industry’s most complete hybrid i
 
 The aim of this set of pages is to provide some hands-on experience with the the **IBM Cloud Pak for Integration**. They guide users on installing the Cloud Pak for Integration on an OpenShift (managed or on-prem) clusters. Then it will lay out the scenario, along with the deployment of the Cloud Pak components you will be using.
 
+NOTE: This information is valid for CP4I 2019.3.2 running on OpenShift Container Platform 3.11. For information on later versions, please see the Cloud Pak for [Integration knowledge center](https://www.ibm.com/support/knowledgecenter/SSGT7J).
+
 You are not expected to be an expert in any of the Integration portfolio, but some knowledge of each of the components used in this lab will help. It will also help to have some knowledge of kubectl and docker commands, and some background with IBM Cloud Private or Kubernetes. 
 
 ## Table of Contents
