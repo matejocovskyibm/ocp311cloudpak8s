@@ -9,6 +9,7 @@ weight: 100
 * [Install Cloud Pak for Applications (Mac OSx) Developer Tools](../cp4a_install_dev_tools_mac/)
 * [Install Cloud Pak for Applications (Windows) Developer Tools](../cp4a_install_dev_tools_win/)
 * [Modernize existing applications](../cp4a_use_case_app_mod/)
+* [Install Mobile Foundation](../cp4a_install_mobile_foundation/)
 * [Building new applications](../cp4a_use_case_cloud_native/)
 * [Learn more: Next steps](../cp4a_learn_more/)
 
